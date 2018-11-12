@@ -643,7 +643,7 @@
 				"model"     :[{
 					"title": "Model",
 					"input":"select",
-					"disabled": true,
+					"disabled": false,
 					"required": true,
 					"canEdit": true,
 					"data":"iMac"
@@ -652,7 +652,7 @@
 					"title":"Year",
 					"desc":"Model Year",
 					"input":"select",
-					"disabled": true,
+					"disabled": false,
 					"required": true,
 					"canEdit": true,
 					"data":[
@@ -6858,7 +6858,7 @@
 			}]
 		},{
 			"id":7,
-			"card_type":"test",
+			"card_type":"Apple Pencil",
 			"models":null
 		}]
 	},
