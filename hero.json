@@ -244,7 +244,8 @@
 						{"year":"Mid 2013"},
 						{"year":"Early 2014"},
 						{"year":"Early 2015"},
-						{"year":"2017"}
+						{"year":"2017"},
+						{"year":"2018"}
 					]
 				}],
 				"tb"        :[{
@@ -276,7 +277,9 @@
 					"required": true,
 					"canEdit": true,
 					"data":[
-						{"color":"Silver"}
+						{"color":"Silver"},
+						{"color":"Space Gray"},
+						{"color":"Gold"}
 					]
 				}],
 				"received"  :[{
@@ -340,7 +343,8 @@
 					"canEdit"  :true,
 					"data"     : [
 						{"ram":"4GB"},
-						{"ram":"8GB"}
+						{"ram":"8GB"},
+						{"ram":"16GB"}
 					]
 				}],
 				"storage"   :[{
@@ -353,7 +357,9 @@
 					"data"     : [
 						{"size":"128GB SSD"},
 						{"size":"256GB SSD"},
-						{"size":"512GB SSD"}
+						{"size":"512GB SSD"},
+						{"size":"1TB SSD"},
+						{"size":"1.5TB SSD"}
 					]
 				}],
 				"salePrice" :[{
@@ -7220,10 +7226,6 @@
 					"data"     :null
 				}]
 			}]
-		},{
-			"id":8,
-			"card_type":"Test",
-			"models":null
 		}]
 	},
 	"SimpleCarePlusNew":{
