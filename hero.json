@@ -1069,7 +1069,8 @@
 					"canEdit": true,
 					"data":[
 						{"year":"Late 2012"},
-						{"year":"Late 2014"}
+						{"year":"Late 2014"},
+						{"year":"2018"}
 					]
 				}],
 				"tb"           :[{
@@ -1099,7 +1100,7 @@
 					"disabled": false,
 					"required": true,
 					"canEdit": false,
-					"data":[{"color":"Silver"}]
+					"data":[{"color":"Silver"},{"color":"Space Gray"}]
 				}],
 				"received"     :[{
 					"title":"received",
@@ -1136,13 +1137,20 @@
 					"required" :true,
 					"canEdit"  :true,
 					"data"     :[{
+						"search_string": "Core i3",
+						"title"  :"Core i3",
+						"speeds" :[
+							{"speed":"3.6Ghz"}
+						]
+					},{
 						"search_string": "Core i5",
 						"title"  :"Core i5",
 						"speeds" :[
 							{"speed":"1.4Ghz"},
 							{"speed":"2.5Ghz"},
 							{"speed":"2.6Ghz"},
-							{"speed":"2.8Ghz"}
+							{"speed":"2.8Ghz"},
+							{"speed":"3.0Ghz"}
 						]
 					},{
 						"search_string": "Core i7",
@@ -1150,7 +1158,8 @@
 						"speeds" :[
 							{"speed":"2.3Ghz"},
 							{"speed":"2.6Ghz"},
-							{"speed":"3.0Ghz"}
+							{"speed":"3.0Ghz"},
+							{"speed":"3.2Ghz"}
 						]
 					}]
 				}],
@@ -1164,7 +1173,9 @@
 					"data"     : [
 						{"ram":"4GB"},
 						{"ram":"8GB"},
-						{"ram":"16GB"}
+						{"ram":"16GB"},
+						{"ram":"32GB"},
+						{"ram":"64GB"}
 					]
 				}],
 				"storage"      :[{
@@ -1181,7 +1192,8 @@
 						{"size":"2TB Fusion"},
 						{"size":"256GB SSD"},
 						{"size":"512GB SSD"},
-						{"size":"1TB SSD"}
+						{"size":"1TB SSD"},
+						{"size":"2TB SSD"}
 					]
 				}],
 				"salePrice"    :[{
