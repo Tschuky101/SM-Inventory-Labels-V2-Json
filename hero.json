@@ -1190,6 +1190,7 @@
 						{"size":"1TB HD"},
 						{"size":"1TB Fusion"},
 						{"size":"2TB Fusion"},
+						{"size":"128GB SSD"},
 						{"size":"256GB SSD"},
 						{"size":"512GB SSD"},
 						{"size":"1TB SSD"},
@@ -1647,7 +1648,8 @@
 						"canEdit": true,
 						"data":[
 							{"year":"1st Gen"},
-							{"year":"2nd Gen"}
+							{"year":"2nd Gen"},
+							{"year":"3rd Gen"}
 						]
 					}],
 					"tb"        :[{
@@ -1669,6 +1671,7 @@
 						"data":[
 							{"size":"9.7 inch"},
 							{"size":"10.5 inch"},
+							{"size":"11 inch"},
 							{"size":"12.9 inch"}
 						]
 					}],
@@ -1770,7 +1773,8 @@
 							{"size":"64GB"},
 							{"size":"128GB"},
 							{"size":"256GB"},
-							{"size":"512GB"}
+							{"size":"512GB"},
+							{"size":"1TB"}
 						]
 					}],
 					"salePrice" :[{
