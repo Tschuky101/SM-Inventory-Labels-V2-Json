@@ -1852,7 +1852,8 @@
 							{"year":"1"},
 							{"year":"2"},
 							{"year":"3"},
-							{"year":"4"}
+							{"year":"4"},
+                            {"year":"5"}
 						]
 					}],
 					"tb"        :[{
@@ -2049,7 +2050,8 @@
 						"canEdit": true,
 						"data":[
 							{"year":"1"},
-							{"year":"2"}
+							{"year":"2"},
+                            {"year":"3"}
 						]
 					}],
 					"tb"        :[{
@@ -2069,7 +2071,8 @@
 						"required": true,
 						"canEdit": true,
 						"data":[
-							{"size":"9.7 inch"}
+							{"size":"9.7 inch"},
+                            {"size":"10.5 inch"}
 						]
 					}],
 					"colors"    :[{
@@ -7710,6 +7713,10 @@
 					"search_string" : 2,
 					"title"         : "Simple Care+ 3 Year Pricing",
 					"price"         : "119.99"
+				},{
+					"search_string" : 3,
+					"title"         : "Simple Care+ 3 Year Pricing",
+					"price"         : "119.99"
 				}]
 			},{
 				"search_string" : "iPad Pro",
@@ -7954,6 +7961,10 @@
 					"search_string" : 2,
 					"title"         : "Simple Care+ 3 Year Pricing",
 					"price"         : "119.99"
+				},{
+					"search_string" : 3,
+					"title"         : "Simple Care+ 3 Year Pricing",
+					"price"         : "119.99"
 				}]
 			},{
 				"search_string" : "iPad Pro",
@@ -8177,7 +8188,7 @@
 				"price"          : "69.99"
 			},{
 				"search_string" : "iPad Air",
-				"title"         : "iPad Mini Apple Care+ Pricing",
+				"title"         : "iPad Air Apple Care+ Pricing",
 				"price"          : "69.99"
 			},{
 				"search_string" : "iPad Pro",
