@@ -435,6 +435,7 @@
 					"required" :true,
 					"canEdit"  :true,
 					"data"     :[
+                        {"year":"2019"},
 						{"year":"2018"},
 						{"year":"2017"},
 						{"year":"2016"},
@@ -551,6 +552,7 @@
 						"search_string" :"Core i9",
 						"title"         :"Core i9",
 						"speeds"        :[
+                            {"speed":"2.3Ghz"},
 							{"speed":"2.9Ghz"}
 						]
 					}]
@@ -662,6 +664,7 @@
 					"required": true,
 					"canEdit": true,
 					"data":[
+                        {"year":"2019"},
 						{"year":"2017"},
 						{"year":"Late 2015"},
 						{"year":"Mid 2015"},
@@ -743,7 +746,8 @@
 						"title"  :"Core i3",
 						"speeds" :[
 							{"speed":"3.1Ghz"},
-							{"speed":"3.3Ghz"}
+							{"speed":"3.3Ghz"},
+                            {"speed":"3.6Ghz"}
 						]
 					},{
 						"search_string": "Core i5",
@@ -762,6 +766,7 @@
 							{"speed":"3.4Ghz"},
 							{"speed":"3.5Ghz"},
 							{"speed":"3.6Ghz"},
+                            {"speed":"3.7Ghz"},
 							{"speed":"3.8Ghz"},
 							{"speed":"4.0Ghz"},
 							{"speed":"4.2Ghz"}
