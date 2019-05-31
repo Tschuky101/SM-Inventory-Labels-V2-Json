@@ -1859,7 +1859,7 @@
 							{"year":"2"},
 							{"year":"3"},
 							{"year":"4"},
-                            {"year":"5"}
+                            				{"year":"5"}
 						]
 					}],
 					"tb"        :[{
@@ -1980,7 +1980,8 @@
 							{"size":"16GB"},
 							{"size":"32GB"},
 							{"size":"64GB"},
-							{"size":"128GB"}
+							{"size":"128GB"},
+							{"size":"256GB"}
 						]
 					}],
 					"salePrice" :[{
@@ -2078,7 +2079,7 @@
 						"canEdit": true,
 						"data":[
 							{"size":"9.7 inch"},
-                            {"size":"10.5 inch"}
+                            				{"size":"10.5 inch"}
 						]
 					}],
 					"colors"    :[{
@@ -2177,7 +2178,8 @@
 							{"size":"16GB"},
 							{"size":"32GB"},
 							{"size":"64GB"},
-							{"size":"128GB"}
+							{"size":"128GB"},
+							{"size":"256GB"}
 						]
 					}],
 					"salePrice" :[{
