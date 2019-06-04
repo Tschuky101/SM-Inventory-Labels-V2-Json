@@ -1275,7 +1275,8 @@
 					"required": true,
 					"canEdit": true,
 					"data":[
-						{"year":"Late 2013"}
+						{"year":"Late 2013"},
+						{"year":"2019"}
 					]
 				}],
 				"tb"           :[{
@@ -1305,7 +1306,10 @@
 					"disabled": false,
 					"required": true,
 					"canEdit": false,
-					"data":[{"color":"Jet Black"}]
+					"data":[
+						{"color":"Silver"},
+						{"color":"Jet Black"}
+					]
 				}],
 				"received"     :[{
 					"title":"received",
@@ -1345,8 +1349,11 @@
 						"search_string": "Xeon E5",
 						"title"  :"Xeon E5",
 						"speeds" :[
+							{"speed":"2.5GHz"},
 							{"speed":"2.7Ghz"},
 							{"speed":"3.0Ghz"},
+							{"speed":"3.2Ghz"},
+							{"speed":"3.3Ghz"},
 							{"speed":"3.5Ghz"},
 							{"speed":"3.7Ghz"}
 						]
@@ -1362,7 +1369,13 @@
 					"data"     : [
 						{"ram":"16GB"},
 						{"ram":"32GB"},
-						{"ram":"64GB"}
+						{"ram":"48GB"},
+						{"ram":"64GB"},
+						{"ram":"96GB"},
+						{"ram":"192GB"},
+						{"ram":"384GB"},
+						{"ram":"768GB"},
+						{"ram":"1.5TB"}
 					]
 				}],
 				"storage"      :[{
@@ -1375,7 +1388,9 @@
 					"data"     : [
 						{"size":"256GB SSD"},
 						{"size":"512GB SSD"},
-						{"size":"1TB SSD"}
+						{"size":"1TB SSD"},
+						{"size":"2TB SSD"},
+						{"size":"4TB}
 					]
 				}],
 				"salePrice"    :[{
@@ -2079,7 +2094,7 @@
 						"canEdit": true,
 						"data":[
 							{"size":"9.7 inch"},
-                            				{"size":"10.5 inch"}
+                            {"size":"10.5 inch"}
 						]
 					}],
 					"colors"    :[{
@@ -2178,8 +2193,7 @@
 							{"size":"16GB"},
 							{"size":"32GB"},
 							{"size":"64GB"},
-							{"size":"128GB"},
-							{"size":"256GB"}
+							{"size":"128GB"}
 						]
 					}],
 					"salePrice" :[{
