@@ -1307,8 +1307,8 @@
 					"required": true,
 					"canEdit": false,
 					"data":[
-						{"color":"Silver"}
-						{"color":"Jet Black"},
+						{"color":"Silver"},
+						{"color":"Jet Black"}
 					]
 				}],
 				"received"     :[{
