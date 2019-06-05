@@ -1271,7 +1271,7 @@
 					"title":"Year",
 					"desc":"Model Year",
 					"input":"select",
-					"disabled": true,
+					"disabled": false,
 					"required": true,
 					"canEdit": true,
 					"data":[
