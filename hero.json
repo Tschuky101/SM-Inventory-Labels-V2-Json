@@ -435,7 +435,7 @@
 					"required" :true,
 					"canEdit"  :true,
 					"data"     :[
-                        {"year":"2019"},
+                        			{"year":"2019"},
 						{"year":"2018"},
 						{"year":"2017"},
 						{"year":"2016"},
@@ -519,6 +519,8 @@
 						"search_string" :"Core i5",
 						"title"         :"Core i5",
 						"speeds"        :[
+                            				{"speed":"1.4GHz"},
+                            				{"speed":"1.7GHz"},
 							{"speed":"2.0Ghz"},
 							{"speed":"2.3Ghz"},
 							{"speed":"2.4Ghz"},
