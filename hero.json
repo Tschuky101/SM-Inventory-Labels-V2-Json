@@ -2195,7 +2195,8 @@
 							{"size":"16GB"},
 							{"size":"32GB"},
 							{"size":"64GB"},
-							{"size":"128GB"}
+							{"size":"128GB"},
+                            {"size":"256GB"}
 						]
 					}],
 					"salePrice" :[{
