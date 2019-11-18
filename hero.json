@@ -687,6 +687,9 @@
                                 "canEdit": true,
                                 "data": [
                                     {
+                                        "size": "16 inch"
+                                    },
+                                    {
                                         "size": "15 inch"
                                     },
                                     {
@@ -850,6 +853,12 @@
                                                 "speed": "2.3Ghz"
                                             },
                                             {
+                                                "speed": "2.4Ghz"
+                                            },
+                                            {
+                                                "speed": "2.6Ghz"
+                                            },
+                                            {
                                                 "speed": "2.9Ghz"
                                             }
                                         ]
@@ -877,6 +886,9 @@
                                     },
                                     {
                                         "ram": "32GB"
+                                    },
+                                    {
+                                        "ram": "64GB"
                                     }
                                 ]
                             }
@@ -922,6 +934,9 @@
                                     },
                                     {
                                         "size": "4TB SSD"
+                                    },
+                                    {
+                                        "size": "8TB SSD"
                                     }
                                 ]
                             }
@@ -11559,6 +11574,249 @@
                                 "required": true,
                                 "canEdit": true,
                                 "data": "2nd Gen"
+                            }
+                        ],
+                        "years": [
+                            {
+                                "title": "Finish",
+                                "desc": "Model Material",
+                                "input": "select",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": false,
+                                "data": [
+                                    {
+                                        "year": "Glossy"
+                                    }
+                                ]
+                            }
+                        ],
+                        "tb": [
+                            {
+                                "title": "Touchbar",
+                                "desc": "Does device have TB",
+                                "input": "switch",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "sizes": [
+                            {
+                                "title": "Size",
+                                "desc": "Model Size",
+                                "input": "select",
+                                "disabled": true,
+                                "required": true,
+                                "canEdit": true,
+                                "data": [
+                                    {
+                                        "size": "N/A"
+                                    }
+                                ]
+                            }
+                        ],
+                        "colors": [
+                            {
+                                "title": "Color",
+                                "desc": "Computer Color",
+                                "input": "select",
+                                "disabled": true,
+                                "required": true,
+                                "canEdit": true,
+                                "data": [
+                                    {
+                                        "color": "White"
+                                    }
+                                ]
+                            }
+                        ],
+                        "received": [
+                            {
+                                "title": "received",
+                                "desc": "Received On",
+                                "input": "datepicker",
+                                "disabled": false,
+                                "required": true,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "serial": [
+                            {
+                                "title": "serial",
+                                "desc": "Device Serial",
+                                "input": "input",
+                                "disabled": false,
+                                "required": true,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "cpo": [
+                            {
+                                "title": "CPO",
+                                "desc": "Is Computer a CPO",
+                                "input": "switch",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "processor": [
+                            {
+                                "title": "Processor",
+                                "desc": "Computer Processor",
+                                "input": "select",
+                                "disabled": true,
+                                "required": true,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "memory": [
+                            {
+                                "title": "Storage",
+                                "desc": "How much Storage is in the Watch",
+                                "input": "select",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "cellular": [
+                            {
+                                "title": "Cellular",
+                                "desc": "Is this a cellular iPad",
+                                "input": "switch",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": false,
+                                "data": true
+                            }
+                        ],
+                        "carriers": [
+                            {
+                                "title": "Carrier",
+                                "desc": "Which carrier is the device with",
+                                "input": "select",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": true,
+                                "data": [
+                                    {
+                                        "carrier": "Unlocked"
+                                    },
+                                    {
+                                        "carrier": "Verizon"
+                                    },
+                                    {
+                                        "carrier": "AT&T"
+                                    },
+                                    {
+                                        "carrier": "Sprint"
+                                    },
+                                    {
+                                        "carrier": "T-Mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "storage": [
+                            {
+                                "title": "Storage",
+                                "desc": "How big is the SSD/HDD",
+                                "input": "select",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": true,
+                                "data": [
+                                    {
+                                        "size": "N/A"
+                                    }
+                                ]
+                            }
+                        ],
+                        "salePrice": [
+                            {
+                                "title": "Comptuer Sale Price",
+                                "desc": "What price does the comptuer sale for?",
+                                "input": "input",
+                                "disabled": false,
+                                "required": true,
+                                "canEdit": true,
+                                "data": null
+                            }
+                        ],
+                        "SCPlus1": [
+                            {
+                                "title": "Simple Care+ 1 Year",
+                                "desc": "Simple Care+ Pricing",
+                                "input": "input",
+                                "disabled": false,
+                                "required": false,
+                                "canEdit": false,
+                                "data": null
+                            }
+                        ],
+                        "SCPlus2": [
+                            {
+                                "title": "Simple Care+ 2 Year",
+                                "desc": "Simple Care+ Pricing",
+                                "input": "input",
+                                "disabled": false,
+                                "required": false,
+                                "canEdit": false,
+                                "data": null
+                            }
+                        ],
+                        "SCPlus3": [
+                            {
+                                "title": "Simple Care+ 3 Year",
+                                "desc": "Simple Care+ Pricing",
+                                "input": "input",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": false,
+                                "data": null
+                            }
+                        ],
+                        "SCPlus4": [
+                            {
+                                "title": "Simple Care+ 4 Year",
+                                "desc": "Simple Care+ Pricing",
+                                "input": "input",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": false,
+                                "data": null
+                            }
+                        ],
+                        "AppleCare": [
+                            {
+                                "title": "AppleCare+",
+                                "desc": "Apple Care+ Pricing",
+                                "input": "input",
+                                "disabled": true,
+                                "required": false,
+                                "canEdit": false,
+                                "data": null
+                            }
+                        ]
+                    },
+                    {
+                        "search_string": "3rd Gen",
+                        "model": [
+                            {
+                                "title": "Model",
+                                "input": "select",
+                                "disabled": true,
+                                "required": true,
+                                "canEdit": true,
+                                "data": "3nd Gen"
                             }
                         ],
                         "years": [
