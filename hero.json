@@ -12067,6 +12067,27 @@
                         "title": "Macbook Pro Simple Care+ Pricing",
                         "data": [
                             {
+                                "search_string": "16 inch",
+                                "title": "16 inch pricing",
+                                "data": [
+                                    {
+                                        "search_string": 1,
+                                        "title": "Simple Care+ 1 Year Pricing",
+                                        "price": "349.99"
+                                    },
+                                    {
+                                        "search_string": 3,
+                                        "title": "Simple Care+ 3 Year Pricing",
+                                        "price": "449.99"
+                                    },
+                                    {
+                                        "search_string": 4,
+                                        "title": "Simple Care+ 4 Year Pricing",
+                                        "price": "599.99"
+                                    }
+                                ]
+                            },
+                            {
                                 "search_string": "15 inch",
                                 "title": "15 inch pricing",
                                 "data": [
@@ -13062,6 +13083,11 @@
                         "search_string": "Macbook Pro",
                         "title": "Macbook Pro Apple Care+ Pricing",
                         "data": [
+                            {
+                                "search_string": "16 inch",
+                                "title": "16 inch pricing",
+                                "price": "379.99"
+                            },
                             {
                                 "search_string": "15 inch",
                                 "title": "15 inch pricing",
