@@ -364,6 +364,9 @@
                                     },
                                     {
                                         "year": "2018"
+                                    },
+                                    {
+                                        "year": "2020"
                                     }
                                 ]
                             }
@@ -461,9 +464,21 @@
                                 "canEdit": true,
                                 "data": [
                                     {
+                                        "search_string": "Core i3",
+                                        "title": "Core i3",
+                                        "speeds": [
+                                            {
+                                                "speed": "1.1Ghz"
+                                            }
+                                        ]
+                                    },
+                                    {
                                         "search_string": "Core i5",
                                         "title": "Core i5",
                                         "speeds": [
+                                            {
+                                                "speed": "1.1Ghz"
+                                            },
                                             {
                                                 "speed": "1.3Ghz"
                                             },
@@ -482,6 +497,9 @@
                                         "search_string": "Core i7",
                                         "title": "Core i7",
                                         "speeds": [
+                                            {
+                                                "speed": "1.2Ghz"
+                                            },
                                             {
                                                 "speed": "1.7Ghz"
                                             },
@@ -537,6 +555,9 @@
                                     },
                                     {
                                         "size": "1.5TB SSD"
+                                    },
+                                    {
+                                        "size": "2TB SSD"
                                     }
                                 ]
                             }
@@ -2550,6 +2571,9 @@
                                     },
                                     {
                                         "year": "2nd Gen"
+                                    },
+                                    {
+                                        "year": "3rd Gen"
                                     },
                                     {
                                         "year": "3rd Gen"
@@ -13391,3 +13415,5 @@
         ]
     }
 }
+
+                                
