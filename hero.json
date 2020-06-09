@@ -652,6 +652,9 @@
                                 "canEdit": true,
                                 "data": [
                                     {
+                                        "year": "2020"
+                                    },
+                                    {
                                         "year": "2019"
                                     },
                                     {
@@ -825,6 +828,9 @@
                                         "search_string": "Core i7",
                                         "title": "Core i7",
                                         "speeds": [
+                                            {
+                                                "speed": "1.7GHz"
+                                            },
                                             {
                                                 "speed": "2.0Ghz"
                                             },
